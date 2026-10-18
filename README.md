@@ -6,6 +6,8 @@ users on the largest. Three years leading architecture, code quality and deliver
 teams. Open to relocation or remote.
 
 <p align="left">
+<a href="https://faezehyas.wasmer.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-0B0F14?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+<a href="https://faezehyas.wasmer.app/Faezeh-Yas-Resume.pdf" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-2F6FB3?style=for-the-badge&logoColor=white" alt="Résumé" /></a>
 <a href="https://www.linkedin.com/in/faezehyas/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:faezeh.yass@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://dailydoseofplay.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Daily%20Dose%20of%20Play-7C3AED?style=for-the-badge&logoColor=white" alt="Daily Dose of Play" /></a>
